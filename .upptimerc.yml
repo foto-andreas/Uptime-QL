@@ -21,7 +21,7 @@ status-website:
   introMessage: 
   navbar:
     - title: Status
-      href: /
+      href: https://foto-andreas.github.io/Uptime-QL/
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
