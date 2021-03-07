@@ -16,6 +16,7 @@ status-website:
   baseUrl: /Uptime-QL
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Q-Learning
+  theme: dark
   introTitle: "**Q-Learning** Statusseite"
   introMessage: 
   navbar:
