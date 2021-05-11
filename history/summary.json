@@ -22,17 +22,17 @@
     "url": "https://q-learning-campus.de",
     "icon": "https://favicons.githubusercontent.com/q-learning-campus.de",
     "slug": "q-learning-campus",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1016,
-    "timeDay": 1654,
-    "timeWeek": 1131,
-    "timeMonth": 1037,
-    "timeYear": 1016,
+    "time": 1015,
+    "timeDay": 1433,
+    "timeWeek": 1115,
+    "timeMonth": 1035,
+    "timeYear": 1015,
     "dailyMinutesDown": {}
   }
 ]
